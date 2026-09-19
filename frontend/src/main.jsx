@@ -17,8 +17,7 @@ import "./style.css";
 
 
 
-const API = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
-
+const API = "https://et-aura-32o8.onrender.com";
 
 
 const navItems = [
