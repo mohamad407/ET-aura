@@ -1,0 +1,1 @@
+{"scripts":{"dev":"vite","build":"vite","preview":"vite preview"},"dependencies":{"@vitejs/plugin-react":"latest","axios":"latest","firebase":"^12.19.0","react":"latest","react-dom":"latest","recharts":"latest"},"devDependencies":{"vite":"latest"},"version":"1.0.0","private":true,"type":"module"}

@@ -1,0 +1,17 @@
+{
+  "regression": {
+    "MAE": 1.851,
+    "RMSE": 2.289,
+    "R2": 0.982
+  },
+  "classification": {
+    "accuracy": 0.886,
+    "precision": 0.891,
+    "recall": 0.91,
+    "F1": 0.901
+  },
+  "dataset": {
+    "records": 5000,
+    "delay_rate": 0.568
+  }
+}
